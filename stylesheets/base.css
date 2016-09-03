@@ -1,6 +1,13 @@
 
 /* ================= Structure =================== */
 
+.txt-center {text-align:center;}
+div.nav ul {display:inline-block; margin:0; padding:0;}
+.nav li {
+  list-style: none;
+  display: inline-block;
+  padding: 5px 10px;
+}
 
 /* ================ Skeleton CSS ================= */
 
